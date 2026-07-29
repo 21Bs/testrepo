@@ -5,7 +5,7 @@ int z;
 
 int main()
 {
-  int x = 6;
+  int y = 6;
 
   return 0;
 }
